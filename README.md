@@ -40,7 +40,7 @@ My process for developing this Amazon Clone involved several key steps:
 - Testing: I thoroughly tested the component on different browsers and devices to ensure cross-browser compatibility and responsiveness.
 
 - HTML & CSS: I implemented the card's structure using semantic HTML and styled it using CSS, ensuring a responsive and visually appealing design.
--
+  
 - Deployment: I deployed the frontend to a hosting platform like AWS, Netlify, or Vercel to make the website accessible online.
 
 ### Built with
